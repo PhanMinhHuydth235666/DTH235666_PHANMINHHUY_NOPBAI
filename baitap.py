@@ -1,21 +1,31 @@
-print('một người không bao giờ mắc sai lầm không bao giờ thử điều gì mới - baitap.py:1')
+#Vidu1
+print('Hello World!')
 
+#Vidu2
+print('Albert Einstein đã từng nói: Một người không bao giờ mắc sai lầm không bao giờ thử bất kỳ điều gì mới.')
+
+#Vidu3
 if 5 > 2:
-    print('five is greater than two! - baitap.py:4')
+    print('five is greater than two!')
 
-    total =1 + \
-    2+ \
-    3
-print(total); print('hello python - baitap.py:9')
+#Vidu4
+total =1 + \
+2+ \
+3
+print(total); print('hello python')
 
+#Vidu5
 if True:
-    print('true - baitap.py:12')
+    print('true')
 else:
-    print('false - baitap.py:14')  
+    print('false')  
 
-    #this is a comment
-    print("Hello, World! - baitap.py:17") 
+#Vidu6
+#this is a comment
+print("Hello, World!") 
 
-    def add(a, b):
-     result = a + b
-     return result
+#Vidu7
+def add(a, b):
+ result = a + b
+
+ return result

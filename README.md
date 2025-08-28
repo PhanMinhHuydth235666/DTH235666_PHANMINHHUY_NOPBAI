@@ -1,3 +1,10 @@
+# 💫 About Me:
+🔭 I’m currently working on **Gym Management Software Project**  
+👯 I’m looking to collaborate on **Open-source projects & Web development**  
+🤝 I’m looking for help with **improving system design and optimization**  
+🌱 I’m currently learning **Node.js, React, and Software Architecture**  
+💬 Ask me about **Java, C#, or Database Design**  
+⚡ Fun fact: **I enjoy solving algorithm problems and I can code for hours without noticing time!**  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19UYXh7sYB/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@minhhuy143) 

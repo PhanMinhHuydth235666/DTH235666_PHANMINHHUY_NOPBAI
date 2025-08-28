@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on **Gym Management Software Project**  
-👯 I’m looking to collaborate on **Open-source projects & Web development**  
-🤝 I’m looking for help with **improving system design and optimization**  
-🌱 I’m currently learning **Node.js, React, and Software Architecture**  
-💬 Ask me about **Java, C#, or Database Design**  
+💫 About Me:  
+🥋 I used to practice MMA martial arts  
+❤️ Currently single  
+🎓 I am studying at university  
+💻 Major in Information Technology  
+📚 I am a 3rd-year student  
 ⚡ Fun fact: **I enjoy solving algorithm problems and I can code for hours without noticing time!**  
 
 ## 🌐Socials

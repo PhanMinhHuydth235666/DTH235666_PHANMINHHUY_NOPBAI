@@ -1,7 +1,7 @@
 # Phần ngọn cây
-print("* - bai10.py:2")
-print("* - bai10.py:3")
-print("***** - bai10.py:4")
+print("      *")
+print("     *")
+print("   *****")
 
 # Phần thân cây (3 tầng)
 for i in range(2, 5):
@@ -10,7 +10,5 @@ for i in range(2, 5):
     print(spaces + stars)
 
 # Phần đáy cây
-print("** - bai10.py:13")
-print("** - bai10.py:14")
-Bạn đã gửi
-9
+print("     **")
+print("     **")

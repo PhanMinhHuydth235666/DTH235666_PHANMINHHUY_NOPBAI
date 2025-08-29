@@ -1,2 +1,2 @@
 for i in range(4):
-    print("* - bai9.py:2" * 10)
+    print("* " * 10)

@@ -28,24 +28,28 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DTH235666PHANMINHHUY&icon=0&color=0)](https://visitcount.itsvg.in)
-# 🐍 Introduction to Python  
-
-Chào mừng bạn đến với khóa học **Python cơ bản**!  
-Trong phần này, bạn sẽ làm quen với những khái niệm nền tảng đầu tiên để bắt đầu hành trình lập trình với ngôn ngữ **Python** — một trong những ngôn ngữ lập trình phổ biến và dễ học nhất hiện nay.  
 
 ---
 
-## 🔹 Mục tiêu:
-- Làm quen với cú pháp cơ bản của Python.  
-- Hiểu cách sử dụng **`print()`** để xuất dữ liệu ra màn hình.  
-- Viết và chạy các câu lệnh đơn giản.  
+# 💻 Introduction to Python  
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)  
+[![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-brightgreen)]()  
+[![Code](https://img.shields.io/badge/Code-Examples-orange)]()  
+
+---
+
+## 🎯 Mục tiêu học tập
+✔️ Làm quen với cú pháp cơ bản của **Python**  
+✔️ Sử dụng **`print()`** để xuất dữ liệu ra màn hình  
+✔️ Viết và chạy các câu lệnh đơn giản  
 
 ---
 
 ## 🖨️ `print()` — In ra màn hình  
-Hàm **`print()`** được dùng để hiển thị thông tin ra màn hình. Đây là một trong những hàm đầu tiên và quan trọng nhất mà bạn sẽ sử dụng khi bắt đầu học lập trình.  
+Hàm **`print()`** dùng để hiển thị thông tin ra màn hình.  
 
-**Cú pháp:**
+📌 **Cú pháp:**
 ```python
 print("Nội dung cần in")
 

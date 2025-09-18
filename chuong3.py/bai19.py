@@ -15,4 +15,4 @@ n = int(input("Enter the value of n: "))
 result = calculate_S(x, n)
 
 # Display the result
-print(f"The value of S({x}, {n}) is: {result} - bai19.py:18")
+print(f"The value of S({x}, {n}) is: {result}")

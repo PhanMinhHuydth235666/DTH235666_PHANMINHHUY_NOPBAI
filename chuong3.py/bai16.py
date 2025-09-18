@@ -6,5 +6,5 @@
 '''
 
 for a in range(20,100,5):
-    print('* - bai16.py:9',end='')
+    print('*',end='')
 print()

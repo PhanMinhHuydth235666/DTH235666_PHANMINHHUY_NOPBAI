@@ -23,4 +23,4 @@ m = int(input("Nhập tháng: "))
 y = int(input("Nhập năm: "))
 
 nd, nm, ny = next_day(d, m, y)
-print("Ngày kế tiếp là: {}/{}/{} - bai7.py:26".format(nd, nm, ny))
+print("Ngày kế tiếp là: {}/{}/{}".format(nd, nm, ny))

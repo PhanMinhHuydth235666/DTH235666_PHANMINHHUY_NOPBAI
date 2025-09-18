@@ -21,5 +21,5 @@ else:
     else:
         x1 = (-b - sqrt(delta)) / (2*a)
         x2 = (-b + sqrt(delta)) / (2*a)
-        print("x1 = - bai3.py:24", x1)
-        print("x2 = - bai3.py:25", x2)
+        print("x1 = ", x1)
+        print("x2 = ", x2)

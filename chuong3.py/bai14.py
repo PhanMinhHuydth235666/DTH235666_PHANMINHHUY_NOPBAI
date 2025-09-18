@@ -8,7 +8,7 @@ while a<100:
     b = 0
     while b <40: 
         if (a+b) %2 == 0:
-            print('* - bai14.py:11',end='')
+            print('*',end='')
         b +=1
     print()
     a +=1 

@@ -7,4 +7,4 @@ for i in range(1, n+1):
     for j in range(1, i+1):
         mau *= j
     s += tu / mau
-print("s({0},{1})={2} - bai10.py:10".format(x, n, s))
+print("s({0},{1})={2}".format(x, n, s))

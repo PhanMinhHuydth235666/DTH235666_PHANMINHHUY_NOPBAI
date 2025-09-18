@@ -8,4 +8,4 @@ elif month in (7, 8, 9):
 elif month in (10, 11, 12):
     print("Tháng - bai9.py:9", month, "thuộc quý 4")
 else:
-    print("Tháng không hợp lệ - bai9.py:11")
+    print("Tháng không hợp lệ")

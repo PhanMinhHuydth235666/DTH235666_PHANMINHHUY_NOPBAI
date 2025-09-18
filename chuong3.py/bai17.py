@@ -15,4 +15,4 @@ while n != m:
     n = int(input())
     if n < 0:
         break
-    print("n = - bai17.py:18", n)
+    print("n =", n)

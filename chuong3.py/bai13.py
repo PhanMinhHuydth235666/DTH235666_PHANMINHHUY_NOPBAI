@@ -1,7 +1,7 @@
 #Source Code
 a = 10
 while a<100:
-    print("* - bai13.py:4",end='')
+    print("*",end='')
 print()
 
 

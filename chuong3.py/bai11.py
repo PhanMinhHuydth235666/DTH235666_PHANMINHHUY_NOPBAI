@@ -11,4 +11,4 @@ while True:
     hoi = input("Tiếp không Thím? (c/k): ")
     if hoi == "k":
         break
-print("BYE! - bai11.py:14")
+print("BYE!")

@@ -1,4 +1,4 @@
-print("Chương trình kiểm tra năm nhuận - bai1.py:1")
+print("Chương trình kiểm tra năm nhuận")
 year = int(input("Mời bạn nhập vào 1 năm: "))
 
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):

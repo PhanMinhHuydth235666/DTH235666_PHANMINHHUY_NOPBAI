@@ -7,8 +7,8 @@ elif month in (4, 6, 9, 11):
 elif month == 2:
     year = int(input("Mời bạn nhập vào năm: "))
     if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-        print("Tháng - bai2.py:10", month, "có 29 ngày")
+        print("Tháng ", month, "có 29 ngày")
     else:
-        print("Tháng - bai2.py:12", month, "có 28 ngày")
+        print("Tháng ", month, "có 28 ngày")
 else:
-    print("Tháng - bai2.py:14", month, "không hợp lệ")
+    print("Tháng ", month, "không hợp lệ")

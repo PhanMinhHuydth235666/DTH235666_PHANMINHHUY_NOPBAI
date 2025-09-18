@@ -5,7 +5,7 @@ while not done and n != m:
     n = int(input())
     if n < 0:
         done = True
-    print("n = - bai17.py:8", n)
+    print("n =", n)
 '''
 
 

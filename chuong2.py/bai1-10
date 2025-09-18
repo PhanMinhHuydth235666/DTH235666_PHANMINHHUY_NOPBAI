@@ -1,0 +1,93 @@
+#bai1
+import math
+
+try:
+    r = float(input("Mời bạn nhập bán kính hình tròn: "))
+    cv = 2 * math.pi * r
+    dt = math.pi * r ** 2
+    print("Chu vi =  bai1c2.py:7 - bai1-10:8", cv)
+    print("Diện tích =  bai1c2.py:8 - bai1-10:9", dt)
+except:
+    print("Lỗi rồi!  bai1c2.py:10 - bai1-10:11")
+#bai2
+t = int(input("Nhập số giây: "))
+
+hour = (t // 3600) % 24
+minute = (t % 3600) // 60
+second = (t % 3600) % 60
+
+print(hour, ":  bai2c2.py:7 - bai1-10:19", minute, ":", second)
+#bai3
+toan = float(input("Nhập điểm Toán: "))
+ly = float(input("Nhập điểm Lý: "))
+hoa = float(input("Nhập điểm Hóa: "))
+
+dtb = (toan + ly + hoa) / 3
+print("Điểm trung bình =  bai3c2.py:6 - bai1-10:26", dtb)
+print("Điểm trung bình (làm tròn 2 số lẻ) =  bai3c2.py:7 - bai1-10:27", round(dtb, 2))
+#bai4
+int → số nguyên
+
+float → số thực
+
+complex → số phức
+
+str → chuỗi ký tự
+
+bool → giá trị logic (True/False)
+
+list, tuple, set, dict → cấu trúc dữ liệu
+#bai5
+Ghi chú 1 dòng: dùng #
+
+Ghi chú nhiều dòng: dùng ''' ... ''' hoặc """ ... """
+#bai6
+Câu 6: Ý nghĩa toán tử
+
+/ : chia (kết quả float)
+
+// : chia lấy phần nguyên
+
+% : chia lấy dư
+
+** : lũy thừa
+
+and : và (logic)
+
+or : hoặc (logic)
+
+is : so sánh đối tượng (cùng vùng nhớ)
+#bai7
+x = input("Nhập chuỗi: ")
+a = int(input("Nhập số nguyên: "))
+b = float(input("Nhập số thực: "))
+#bai8
+try:
+    a = int(input("Nhập số nguyên: "))
+    b = 10 / a
+    print("Kết quả =  bai8c2.py:4 - bai1-10:68", b)
+except ZeroDivisionError:
+    print("Không được chia cho 0!  bai8c2.py:6 - bai1-10:70")
+except ValueError:
+    print("Sai kiểu dữ liệu!  bai8c2.py:8 - bai1-10:72")
+#bai9
+i1 = 2
+i2 = 5
+i3 = -3
+d1 = 2.0
+d2 = 5.0
+d3 = -0.5
+#bai10
+(a) x = x + 1 → x += 1
+
+(b) x = x / 2 → x /= 2
+
+(c) x = x - 1 → x -= 1
+
+(d) x = x + y → x += y
+
+(e) x = x - (y + 7) → x -= (y + 7)
+
+(f) x = 2 * x → x *= 2
+
+(g) number_of_closed_cases = number_of_closed_cases + 2 * ncc → number_of_closed_cases += 2 * ncc

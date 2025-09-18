@@ -5,10 +5,10 @@ try:
     r = float(input("Mời bạn nhập bán kính hình tròn: "))
     cv = 2 * math.pi * r
     dt = math.pi * r ** 2
-    print("Chu vi =  bai1c2.py:7 - bai1-10:8", cv)
-    print("Diện tích =  bai1c2.py:8 - bai1-10:9", dt)
+    print("Chu vi =", cv)
+    print("Diện tích =", dt)
 except:
-    print("Lỗi rồi!  bai1c2.py:10 - bai1-10:11")
+    print("Lỗi rồi!")
 #bai2
 t = int(input("Nhập số giây: "))
 
@@ -23,8 +23,8 @@ ly = float(input("Nhập điểm Lý: "))
 hoa = float(input("Nhập điểm Hóa: "))
 
 dtb = (toan + ly + hoa) / 3
-print("Điểm trung bình =  bai3c2.py:6 - bai1-10:26", dtb)
-print("Điểm trung bình (làm tròn 2 số lẻ) =  bai3c2.py:7 - bai1-10:27", round(dtb, 2))
+print("Điểm trung bình =", dtb)
+print("Điểm trung bình (làm tròn 2 số lẻ) =", round(dtb, 2))
 #bai4
 int → số nguyên
 
@@ -65,11 +65,11 @@ b = float(input("Nhập số thực: "))
 try:
     a = int(input("Nhập số nguyên: "))
     b = 10 / a
-    print("Kết quả =  bai8c2.py:4 - bai1-10:68", b)
+    print("Kết quả =", b)
 except ZeroDivisionError:
-    print("Không được chia cho 0!  bai8c2.py:6 - bai1-10:70")
+    print("Không được chia cho 0!")
 except ValueError:
-    print("Sai kiểu dữ liệu!  bai8c2.py:8 - bai1-10:72")
+    print("Sai kiểu dữ liệu!")
 #bai9
 i1 = 2
 i2 = 5

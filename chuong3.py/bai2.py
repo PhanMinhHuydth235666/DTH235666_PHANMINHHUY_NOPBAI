@@ -1,4 +1,4 @@
-print("Chương trình đếm số ngày trong tháng - bai2.py:1")
+print("Chương trình đếm số ngày trong tháng")
 month = int(input("Nhập vào 1 tháng: "))
 if month in (1, 3, 5, 7, 8, 10, 12):
     print("Tháng - bai2.py:4", month, "có 31 ngày")

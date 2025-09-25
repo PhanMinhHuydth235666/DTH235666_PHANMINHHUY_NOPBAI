@@ -6,18 +6,18 @@ while True:
     while solandoan < 7:
         solandoan = solandoan + 1
         songuoi = int (input("Máy đoán [1...100], mời bạn đoán: "))
-        print("Bạn đoán lần thứ - Chuong4_Bai2.py:9", solandoan)
+        print("Bạn đoán lần thứ ", solandoan)
         if somay == songuoi:
-            print("Chúc mừng bạn đoán đúng, số máy là: - Chuong4_Bai2.py:11", somay)
+            print("Chúc mừng bạn đoán đúng, số máy là: ", somay)
             win = True
             break
         elif somay > songuoi:
-            print("Bạn đã chọn sai, số máy > số của bạn - Chuong4_Bai2.py:15")
+            print("Bạn đã chọn sai, số máy > số của bạn ")
         else:
-            print("Bạn đã chọn sai, số máy < số của bạn - Chuong4_Bai2.py:17")
+            print("Bạn đã chọn sai, số máy < số của bạn ")
     if win == False:
-        print("GAME OVER!, số máy: - Chuong4_Bai2.py:19", somay)
+        print("GAME OVER!, số máy: ", somay)
     hoi = input("Tiếp không(c/k)?")
     if hoi == "k":
         break
-    print("Cảm ơn bạn đã chơi game - Chuong4_Bai2.py:23")
+    print("Cảm ơn bạn đã chơi game ")

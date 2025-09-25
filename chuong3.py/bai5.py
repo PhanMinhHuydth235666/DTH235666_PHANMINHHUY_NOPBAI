@@ -64,4 +64,4 @@ else:
     else:
         i = k
         
-print("i = - bai5.py:67", i, " j =", j, " k =", k)
+print("i =", i, " j =", j, " k =", k)

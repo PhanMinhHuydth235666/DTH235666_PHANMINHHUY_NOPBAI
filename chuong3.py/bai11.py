@@ -5,9 +5,9 @@ while True:
         if n % i == 0:
             dem += 1
     if dem == 2:
-        print(n, "Là số nguyên tố - bai11.py:8")
+        print(n, "Là số nguyên tố")
     else:
-        print(n, "Không là số nguyên tố - bai11.py:10")
+        print(n, "Không là số nguyên tố")
     hoi = input("Tiếp không Thím? (c/k): ")
     if hoi == "k":
         break

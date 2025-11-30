@@ -10,6 +10,10 @@
 Mục tiêu của dự án là cung cấp một công cụ trực quan, đồng bộ về màu sắc và dễ sử dụng để theo dõi, kiểm soát hoạt động kinh doanh và tồn kho.
 
 -----
+✨ Tầm nhìn Dự án
+Hệ thống được xây dựng trên nền tảng Python và Tkinter (cho giao diện người dùng Desktop hiện đại) kết hợp với SQL Server (cho khả năng quản lý dữ liệu mạnh mẽ). Đây là một giải pháp quản lý bán hàng toàn diện, được thiết kế đặc biệt để tối ưu hóa quy trình vận hành, kiểm soát tồn kho, và nâng cao hiệu quả giao dịch cho các doanh nghiệp vừa và nhỏ.
+
+Với giao diện người dùng đồng bộ, trực quan và thân thiện, đồ án không chỉ giải quyết các bài toán nghiệp vụ cơ bản mà còn hướng tới việc cung cấp thông tin kịp thời, giúp người quản lý đưa ra quyết định nhanh chóng và chính xác.
 
 ## 💡 Các Tính Năng Chính
 

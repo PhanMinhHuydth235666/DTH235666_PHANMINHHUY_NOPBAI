@@ -1,4 +1,3 @@
-Tuyệt vời\! Dựa trên các file Python (`TrangChu.py`, `Login.py`, `QuanLy.py`, `GiaoDich.py`, `KhoHang.py`) và file SQL (`SQLQuery1.sql`), đây là giới thiệu chung và các tính năng chính của đồ án của bạn.
 
 # ĐỒ ÁN MÔN HỌC: HỆ THỐNG QUẢN LÝ BÁN HÀNG 🛒
 
